@@ -112,22 +112,22 @@
         </ul>
         <ul class="social-list">
           <li>
-            <a href="https://www.facebook.com/andro.pool.54?mibextid=ZbWKwL" class="social-link">
+            <a href="https://www.facebook.com/" class="social-link">
               <ion-icon name="logo-facebook"></ion-icon>
             </a>
           </li>
           <li>
-            <a href="https://www.instagram.com/_vladimir_putin.___/" class="social-link">
+            <a href="https://www.instagram.com/" class="social-link">
               <ion-icon name="logo-instagram"></ion-icon>
             </a>
           </li>
           <li>
-            <a href="https://twitter.com/Annabel07785340" class="social-link">
+            <a href="https://twitter.com/" class="social-link">
               <ion-icon name="logo-twitter"></ion-icon>
             </a>
           </li>
           <li>
-            <a href="https://youtu.be/Af0gk_kiGac" class="social-link">
+            <a href="https://youtu.be/" class="social-link">
               <ion-icon name="logo-youtube"></ion-icon>
             </a>
           </li>
@@ -140,7 +140,7 @@
         <nav class="navbar container" data-navbar>
           <ul class="navbar-list">
             <li>
-              <a href="index.php" class="navbar-link" data-nav-link>Home</a>
+              <a href="index.html" class="navbar-link" data-nav-link>Home</a>
             </li>
             <li>
               <a href="#service" class="navbar-link" data-nav-link>Find donor</a>
@@ -148,9 +148,9 @@
             <li>
               <a href="about.html" class="navbar-link" data-nav-link>About Us</a>
             </li>
-            <li>
+            <!-- <li>
               <a href="#blog" class="navbar-link" data-nav-link>Blog</a>
-            </li>
+            </li> -->
             <li>
               <a href="contact.php" class="navbar-link" data-nav-link>Contact</a>
             </li>
@@ -177,9 +177,9 @@
             <h1 class="h1 hero-title">Contact Us</h1>
             <h2 style="color: var(--royal-blue-light);">Address</h2>
             <p class="hero-text">
-            Red Stream, Vaikom Road, Near Thalook Headquarters<br>
-            kottayam, Kerala, IN<br>
-            Pin 686141
+            Red Stream, Near Thakur Village<br>
+            Kandivali, Mumbai, IN<br>
+            Pin 400101
             </p>
             <h2 style="color: var(--royal-blue-light);">Contact Details</h2>
             <p class="hero-text">
@@ -193,7 +193,8 @@
             </form>
           </div>
           <figure class="hero-banner">
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d245.76164524118906!2d76.39003912368983!3d9.750279515331268!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3b08790da3aa8ec7%3A0x58b351f9df4075a3!2sBlood%20Storage%20Center!5e0!3m2!1sen!2sin!4v1689507408879!5m2!1sen!2sin" width="700" height="600" style="border:1;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+            <!-- <iframe src="https://www.google.com/maps/place/Bharatratna+Dr+Babasaheb+Ambedkar+Municipal+General+hospital+Shatabdi+Hospital/@19.20841,72.8490078,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7b0d3c231915b:0x11f6ec14f8e73f96!8m2!3d19.20841!4d72.8515827!16s%2Fg%2F1tk_mr83?entry=ttu&g_ep=EgoyMDI2MDQwNy4wIKXMDSoASAFQAw%3D%3D" width="700" height="600" style="border:1;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe> -->
+              <img src="assets\images\blood.jpeg" alt="Blood donation img" width="700" height="600">
             </figure>
         </div>
     </section>
@@ -310,8 +311,8 @@
             </div>
             <a href="https://goo.gl/maps/BYA5MxQUg5B8ZFLcA">
             <address class="item-text">
-              Near Thaluk Headquarters,<br>
-              Vaikom, Kottayam, Kerala IN
+               Near Thakur Village,<br>
+              Kandivali, Mumbai IN
             </address>
           </a>
           </li>
@@ -337,17 +338,17 @@
         </p>
         <ul class="social-list">
           <li>
-            <a href="https://www.facebook.com/andro.pool.54?mibextid=ZbWKwL" class="social-link">
+            <a href="https://www.facebook.com/" class="social-link">
               <ion-icon name="logo-facebook"></ion-icon>
             </a>
           </li>
           <li>
-            <a href="https://www.instagram.com/_vladimir_putin.___/" class="social-link">
+            <a href="https://www.instagram.com/" class="social-link">
               <ion-icon name="logo-instagram"></ion-icon>
             </a>
           </li>
           <li>
-            <a href="https://twitter.com/Annabel07785340" class="social-link">
+            <a href="https://twitter.com/" class="social-link">
               <ion-icon name="logo-twitter"></ion-icon>
             </a>
           </li>

@@ -126,22 +126,22 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         </ul>
         <ul class="social-list">
           <li>
-            <a href="https://www.facebook.com/andro.pool.54?mibextid=ZbWKwL" class="social-link">
+            <a href="https://www.facebook.com/" class="social-link">
               <ion-icon name="logo-facebook"></ion-icon>
             </a>
           </li>
           <li>
-            <a href="https://www.instagram.com/_vladimir_putin.___/" class="social-link">
+            <a href="https://www.instagram.com/" class="social-link">
               <ion-icon name="logo-instagram"></ion-icon>
             </a>
           </li>
           <li>
-            <a href="https://twitter.com/Annabel07785340" class="social-link">
+            <a href="https://twitter.com/" class="social-link">
               <ion-icon name="logo-twitter"></ion-icon>
             </a>
           </li>
           <li>
-            <a href="https://youtu.be/Af0gk_kiGac" class="social-link">
+            <a href="https://youtu.be/" class="social-link">
               <ion-icon name="logo-youtube"></ion-icon>
             </a>
           </li>
@@ -154,7 +154,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         <nav class="navbar container" data-navbar>
           <ul class="navbar-list">
             <li>
-              <a href="index.php" class="navbar-link" data-nav-link>Home</a>
+              <a href="index.html" class="navbar-link" data-nav-link>Home</a>
             </li>
             <li>
               <a href="#service" class="navbar-link" data-nav-link>Find donor</a>
@@ -162,9 +162,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
             <li>
               <a href="about.html" class="navbar-link" data-nav-link>About Us</a>
             </li>
-            <li>
-              <a href="#blog" class="navbar-link" data-nav-link>Blog</a>
-            </li>
+          
             <li>
               <a href="contact.php" class="navbar-link" data-nav-link>Contact</a>
             </li>
